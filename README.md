@@ -157,11 +157,11 @@ Fields: `name | subject | deadline | totalHours | difficulty | completedHours | 
 
 ## Author
 
-**[Priyanshi Prajapati]**  
-**[24BAI10708]**  
+**[Ayushi Gupta]**  
+**[24BEC10164]**  
 **[VIT Bhopal University]**  
 **Course:** [Programming in Java]  
-**Submission:** BYOP Capstone Project
+
 
 ---
 
