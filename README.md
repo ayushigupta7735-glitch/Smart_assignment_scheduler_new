@@ -154,3 +154,11 @@ Data Structures Assignment|DSA|2025-07-18|6.0|4|0.0|false
 Fields: `name | subject | deadline | totalHours | difficulty | completedHours | isCompleted`
 
 ---
+
+## Author
+
+**[Priyanshi Prajapati]**  
+**[24BAI10708]**  
+**[VIT Bhopal University]**  
+**Course:** [Programming in Java]  
+**Submission:** BYOP Capstone Project
