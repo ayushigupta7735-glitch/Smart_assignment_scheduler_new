@@ -120,7 +120,7 @@ java -cp out Main
   ══════════════════════════════════════
   Assignment name   : Operating Systems Project
   Subject           : OS
-  Deadline (yyyy-MM-dd): 2025-07-20
+  Deadline (yyyy-MM-dd): 2026-03-21
   Estimated total hours : 10
   Difficulty (1=Easy, 5=Very Hard): 3
 
