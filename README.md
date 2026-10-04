@@ -129,14 +129,14 @@ java -cp out Main
 ┌─────────────────────────────────────────────────────┐
 │  Schedule: Operating Systems Project                │
 │  Subject : OS                                       │
-│  Deadline: Fri, March 20 2026                       │
+│  Deadline: Sat, Mar 21 2026                         │
 │  Remaining: 10.0 hrs over 5 day(s)                  │
 ├─────────────────────────────────────────────────────┤
-│  Day 1    Mon, Jul 15 2025           2.75 hours     │
-│  Day 2    Tue, Jul 16 2025           2.50 hours     │
-│  Day 3    Wed, Jul 17 2025           2.25 hours     │
-│  Day 4    Thu, Jul 18 2025           1.50 hours     │
-│  Day 5    Fri, Jul 19 2025           1.00 hours     │
+│  Day 1    Mon, Mar 15 2026           2.75 hours     │
+│  Day 2    Tue, Mar 16 2026           2.50 hours     │
+│  Day 3    Wed, Mar 17 2026           2.25 hours     │
+│  Day 4    Thu, Mar 18 2026           1.50 hours     │
+│  Day 5    Fri, Mar 19 2026           1.00 hours     │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -162,3 +162,8 @@ Fields: `name | subject | deadline | totalHours | difficulty | completedHours | 
 **[VIT Bhopal University]**  
 **Course:** [Programming in Java]  
 **Submission:** BYOP Capstone Project
+
+---
+
+## License
+This project is licensed under the MIT License.
